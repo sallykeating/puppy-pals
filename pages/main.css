@@ -1,0 +1,22 @@
+.title{
+    text-align: center;
+    /* border: 10px;
+    border-color: black; */
+}
+
+.subtitle{
+    text-align: center;
+}
+
+.puppyProfiles{
+    background-color: #ededed;
+}
+
+.button-format{
+    padding: 0px;
+    margin-left: 10vw;
+}
+
+tr{
+    display:flow-root;
+}
