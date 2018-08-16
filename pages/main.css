@@ -16,6 +16,7 @@ p{
 }
 
 table{
+    width:auto;
     border: 1px soild black;
     padding-left: 1vw;
     padding-right: 1vw;
@@ -26,10 +27,6 @@ button{
     border-color: #cedbef;
 }
 
-tr{
-    display:flow-root;
-}
-
 body{
     background-color: #cedbef;
 }
@@ -38,6 +35,6 @@ header{
 }
 .bottom-bar{
     text-align: center;
-    background-color: #a3bfed;
+    background-color: #e6ecf7;
     width: 100%;
 }
