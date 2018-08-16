@@ -3,14 +3,27 @@
     font-family: Tahoma, Geneva, sans-serif;
 
 }
-
 .subtitle{
     text-align: center;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+h4{
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+p{
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+table{
+    border: 1px soild black;
+    padding-left: 1vw;
+    padding-right: 1vw;
 }
 
 button{
-    background-color: #4286f4;
-    border-color: #4286f4;
+    background-color: #cedbef;
+    border-color: #cedbef;
 }
 
 tr{
@@ -18,10 +31,13 @@ tr{
 }
 
 body{
-    background-color: #4286f4;
+    background-color: #cedbef;
 }
-
+header{
+        background-color: #cedbef;
+}
 .bottom-bar{
     text-align: center;
     background-color: #a3bfed;
+    width: 100%;
 }
