@@ -14,24 +14,20 @@ h4{
 p{
     font-family: Tahoma, Geneva, sans-serif;
 }
-
 table{
-    width:auto;
     border: 1px soild black;
     padding-left: 1vw;
     padding-right: 1vw;
 }
-
 button{
     background-color: #cedbef;
     border-color: #cedbef;
 }
-
 body{
     background-color: #cedbef;
 }
 header{
-        background-color: #cedbef;
+    background-color: #cedbef;
 }
 .bottom-bar{
     text-align: center;
