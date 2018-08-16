@@ -1,22 +1,27 @@
 .title{
     text-align: center;
-    /* border: 10px;
-    border-color: black; */
+    font-family: Tahoma, Geneva, sans-serif;
+
 }
 
 .subtitle{
     text-align: center;
 }
 
-.puppyProfiles{
-    background-color: #ededed;
-}
-
-.button-format{
-    padding: 0px;
-    margin-left: 10vw;
+button{
+    background-color: #4286f4;
+    border-color: #4286f4;
 }
 
 tr{
     display:flow-root;
+}
+
+body{
+    background-color: #4286f4;
+}
+
+.bottom-bar{
+    text-align: center;
+    background-color: #a3bfed;
 }
